@@ -107,4 +107,4 @@ new_prediction = classifier.predict(new_data)
 result = (new_prediction > 0.5)
 
 print(f"\nChurn Probability: {new_prediction[0][0]:.2f}")
-print("Will the customer leave?", "Yes 😞" if result else "No 😊")
+print("Will the customer leave?", "Yes " if result else "No 😊")
