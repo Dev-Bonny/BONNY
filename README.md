@@ -119,7 +119,7 @@ These metrics help determine how well the ANN predicts customer churn on unseen 
 
 🧰 Technologies Used
 
-Python 3.13
+Python 3.10
 
 NumPy
 
@@ -135,5 +135,5 @@ TensorFlow
 
 Boniface (Dev-Bonny)
 BSc. Computer Science Student | Aspiring Machine Learning Engineer
-📧 [Your Email Here]
-🌍 [GitHub Profile Link or Portfolio]
+📧 kangangibonface2021@gmail.com
+
